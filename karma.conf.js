@@ -3,6 +3,7 @@ module.exports = function(config) {
     frameworks: ['jasmine'],
     files: [
       'lib/jasmine.js',
+      'lib/jasmine-as-promised.js',
       'src/*.js',
       'test/*.js'
     ],

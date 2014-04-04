@@ -1,7 +1,7 @@
 {
-  "name": "karma-jasmine",
+  "name": "karma-jasmine-as-promised",
   "version": "0.2.2",
-  "description": "A Karma plugin - adapter for Jasmine testing framework.",
+  "description": "A Karma plugin - adapter for Jasmine testing framework patched w/ jasmine-as-promised.",
   "main": "lib/index.js",
   "scripts": {
     "test": "grunt test"
