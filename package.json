@@ -1,19 +1,20 @@
 {
   "name": "karma-jasmine",
   "version": "0.1.5",
-  "description": "A Karma plugin - adapter for Jasmine testing framework.",
+  "description": "A Karma plugin - adapter for Jasmine testing framework w/ promise support",
   "main": "lib/index.js",
   "scripts": {
     "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma-jasmine.git"
+    "url": "https://github.com/tkindl/karma-jasmine.git"
   },
   "keywords": [
     "karma-plugin",
     "karma-adapter",
-    "jasmine"
+    "jasmine",
+    "jasmine-as-promised"
   ],
   "author": "Vojta Jina <vojta.jina@gmail.com>",
   "dependencies": {},
