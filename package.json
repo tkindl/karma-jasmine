@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tkindl/karma-jasmine.git"
+    "url": "git://github.com/tkindl/karma-jasmine.git"
   },
   "keywords": [
     "karma-plugin",
