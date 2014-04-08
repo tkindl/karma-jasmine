@@ -2,6 +2,7 @@
   "name": "karma-jasmine",
   "version": "0.1.5",
   "description": "A Karma plugin - adapter for Jasmine testing framework w/ promise support",
+  "private": true,
   "main": "lib/index.js",
   "scripts": {
     "test": "grunt test"
